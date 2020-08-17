@@ -1,0 +1,9 @@
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDataAccessLibrary\bin\Debug\netstandard2.0\EFDataAccessLibrary.deps.json
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDataAccessLibrary\bin\Debug\netstandard2.0\EFDataAccessLibrary.dll
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.AssemblyInfo.cs
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDataAccessLibrary\bin\Debug\netstandard2.0\EFDataAccessLibrary.pdb
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.dll
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDataAccessLibrary\obj\Debug\netstandard2.0\EFDataAccessLibrary.pdb
