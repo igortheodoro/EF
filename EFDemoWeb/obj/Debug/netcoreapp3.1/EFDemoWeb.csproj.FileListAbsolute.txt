@@ -77,3 +77,4 @@ C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDemoWeb\obj\Debug\netco
 C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDemoWeb\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDemoWeb\obj\Debug\netcoreapp3.1\EFDemoWeb.csproj.CoreCompileInputs.cache
 C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDemoWeb\obj\Debug\netcoreapp3.1\EFDemoWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\igort\Desktop\Entity Best Practices\EFDemoApp\EFDemoWeb\bin\Debug\netcoreapp3.1\generated.json

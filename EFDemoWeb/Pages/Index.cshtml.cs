@@ -24,7 +24,7 @@ namespace EFDemoWeb.Pages
 
         public void OnGet()
         {
-
+            LoadSampleData();
         }
 
         private void LoadSampleData()
